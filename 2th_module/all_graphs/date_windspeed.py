@@ -17,7 +17,7 @@ ax.xaxis.set_major_locator(mdates.DayLocator(interval=3))
 
 
 ax.set_ylabel("Wind Speed (m/s)", fontfamily='serif', fontweight='bold', fontsize=16, color='#051367')
-ax.set_title("Wind Speed in May 2020", fontfamily='serif', fontweight='bold', fontsize=20, color='#051367')
+ax.set_title("Нижний Новгород\nWind Speed in May 2020", fontfamily='serif', fontweight='bold', fontsize=20, color='#051367')
 
 plt.xticks(rotation=-20)
 
